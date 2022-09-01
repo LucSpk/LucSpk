@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Alves</h1>
 
 - 👀 I’m interested in learning new technologies and improving the ones I already know
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Angular
 - 💞️ I’m looking to collaborate with what I can
 
 <h2 align="left">📲 Contact me by</h2>
