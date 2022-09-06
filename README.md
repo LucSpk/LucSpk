@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lucas Alves</h1>
+<span align="center">
+  
+![banner](https://user-images.githubusercontent.com/60412394/188704257-54925cc1-3801-439e-8e65-a9a7a4e8ef18.png)
+  
+</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucSpk&color=green" alt="Profile views" /> </p>
 
@@ -15,6 +19,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olalvezluc@gmail.com)](mailto:olalvezluc@gmail.com)
 
 </div>
+
+<!---
   
 <h2 align="center">📈 My Github Stats</h2>
 
@@ -27,7 +33,9 @@
 </div>
 
 
-<!---
+
 LucSpk/LucSpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<h1 align="center">Hi 👋, I'm Lucas Alves</h1>
 --->
