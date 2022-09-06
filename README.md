@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Alves</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucSpk&color=green" alt="Profile views" /> </p>
+
 - 👀 I’m interested in learning new technologies and improving the ones I already know
 - 🌱 I’m currently learning Java and Angular
 - 💞️ I’m looking to collaborate with what I can
@@ -17,13 +19,14 @@
 <h2 align="center">📈 My Github Stats</h2>
 
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucSpk&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucSpk&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucSpk&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/LucSpk?tab=repositories)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucSpk&theme=vue-dark&hide_border=true)](https://github.com/LucSpk?tab=repositories)
+  
 </div>
+
+
 <!---
 LucSpk/LucSpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
