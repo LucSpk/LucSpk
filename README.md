@@ -34,6 +34,8 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucSpk&theme=vue-dark&hide_border=true)](https://github.com/LucSpk?tab=repositories)
   
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+  
 </div>
 
 
