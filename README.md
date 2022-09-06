@@ -20,6 +20,10 @@
 
 </div>
 
+<div>
+:coffee:
+</div>
+
 <!---
   
 <h2 align="center">📈 My Github Stats</h2>
