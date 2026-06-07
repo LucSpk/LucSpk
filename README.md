@@ -11,16 +11,36 @@ Tenho interesse especial em arquitetura de software, sistemas distribuídos, lin
 ---
 
 ## 🚀 Principais tecnologias
+### 💻 Languages
 
-* Java
-* Spring Boot
-* C
-* Assembly (x86/x86_64/FASM)
-* Docker
-* PostgreSQL
-* Git
-* Linux
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+### ⚙️ Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🛠️ Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📈 GitHub Stats
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LucSpk&theme=github-dark" />
+</p>
+
+### 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucSpk&theme=github-compact" />
+</p>
 ---
 
 ## 📌 Projetos em destaque
@@ -77,6 +97,7 @@ Projeto criado com o objetivo de compreender o funcionamento interno de servidor
 * Engenharia de Software
 * Estruturas internas do Git
 * Arquitetura Backend
+* Agentes de IA para desenvolvimento de software
 
 ---
 
