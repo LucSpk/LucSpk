@@ -105,8 +105,6 @@ Projeto criado com o objetivo de compreender o funcionamento interno de servidor
 
 Construir software robusto, escalável e de alta qualidade, explorando desde aplicações backend até implementações de baixo nível e sistemas operacionais.
 
-Sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos.
-
 ---
 
 ## 📫 Contact me
