@@ -1,47 +1,95 @@
-<span align="center">
-  
-![banner](https://user-images.githubusercontent.com/60412394/188704257-54925cc1-3801-439e-8e65-a9a7a4e8ef18.png)
-  
-</span>
+# Olá, eu sou Lucas Alves 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucSpk&color=green" alt="Profile views" /> </p>
+![](https://komarev.com/ghpvc/?username=LucSpk&label=Visualizações+do+perfil&color=0e75b6&style=flat)
+![](https://img.shields.io/github/followers/LucSpk?label=Seguidores&style=social)
+![](https://img.shields.io/github/stars/LucSpk?affiliations=OWNER&style=social)
 
-- 👀 I’m interested in learning new technologies and improving the ones I already know
-- 🌱 I’m currently learning Java and Angular
-- 💞️ I’m looking to collaborate with what I can
+Desenvolvedor de Software com foco em **Backend**, **Java** e **Programação de Sistemas**.
 
-<h2 align="center">📲 Contact me by</h2>
-<div align="center">
+Tenho interesse especial em arquitetura de software, sistemas distribuídos, linguagem C, Assembly e desenvolvimento de ferramentas de baixo nível. Atualmente estudo e desenvolvo projetos próprios para aprofundar conhecimentos em estruturas internas de sistemas e engenharia de software.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucalvez/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588993564574&text=Olá!)](https://api.whatsapp.com/send?phone=5588993564574&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luc_alvez)](https://t.me/luc_alvez)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olalvezluc@gmail.com)](mailto:olalvezluc@gmail.com)
+---
 
-</div>
+## 🚀 Principais tecnologias
 
-<div>
-:coffee:
-</div>
+* Java
+* Spring Boot
+* C
+* Assembly (x86/x86_64/FASM)
+* Docker
+* PostgreSQL
+* Git
+* Linux
 
-<!---
-  
-<h2 align="center">📈 My Github Stats</h2>
+---
 
-<div align="center">
+## 📌 Projetos em destaque
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucSpk&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/LucSpk?tab=repositories)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucSpk&theme=vue-dark&hide_border=true)](https://github.com/LucSpk?tab=repositories)
-  
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
-  
-</div>
+### VRS (Version Repository System)
 
+Implementação de um sistema de controle de versão inspirado no Git, desenvolvido em C.
 
+**Principais funcionalidades:**
 
-LucSpk/LucSpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+* Inicialização de repositórios
+* Controle de objetos
+* Commits
+* Branches
+* Merge
+* Estruturas de armazenamento
+* Hashes
+* Manipulação direta do sistema de arquivos
 
-<h1 align="center">Hi 👋, I'm Lucas Alves</h1>
---->
+---
+
+### VirtualBankAPI
+
+API REST para simulação de operações bancárias utilizando Java e Spring Boot.
+
+**Recursos:**
+
+* Gestão de contas
+* Operações financeiras
+* Arquitetura em camadas
+* Testes automatizados
+
+---
+
+### Micro Serviço de Cotações
+
+Projeto voltado ao estudo de microsserviços e integração entre aplicações.
+
+---
+
+### WebServer em FASM
+
+Servidor HTTP desenvolvido diretamente em Assembly utilizando chamadas de sistema Linux.
+
+Projeto criado com o objetivo de compreender o funcionamento interno de servidores web e da interface entre software e sistema operacional.
+
+---
+
+## 📚 Atualmente estudando
+
+* Docker
+* Kubernetes
+* Sistemas Distribuídos
+* Engenharia de Software
+* Estruturas internas do Git
+* Arquitetura Backend
+
+---
+
+## 🎯 Objetivo
+
+Construir software robusto, escalável e de alta qualidade, explorando desde aplicações backend até implementações de baixo nível e sistemas operacionais.
+
+Sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos.
+
+---
+
+## 📫 Contact me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lucalvez/
+- 💻 GitHub: https://github.com/LucSpk
+- 📧 Email: olalvezluc@gmail.com
